@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.sundeepk:compact-calendar-view-2.0.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/compact-calendar-view-2.0.2.3.aar/f473537a06c1a2030c8be7557aeecf0f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/compact-calendar-view-2.0.2.3.aar/f473537a06c1a2030c8be7557aeecf0f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sundeepk/compact-calendar-view/2.0.2.3/cd0610b60b53afaab4fd5c94846d4b059fd9b170/compact-calendar-view-2.0.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

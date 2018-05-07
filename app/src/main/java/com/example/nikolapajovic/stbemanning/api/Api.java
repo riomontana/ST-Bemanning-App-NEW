@@ -8,7 +8,7 @@ package com.example.nikolapajovic.stbemanning.api;
 
 public class Api {
 
-    private static final String ROOT_URL = "https://stskolbemanning.se/api/v1/Api.php?apicall=";
+    private static final String ROOT_URL = "https://stbemanning.com/api/v1/Api.php?apicall=";
 
     public static final String URL_GET_USER = ROOT_URL + "getUser";
     public static final String URL_GET_WORK_SHIFTS = ROOT_URL + "getWorkShifts";

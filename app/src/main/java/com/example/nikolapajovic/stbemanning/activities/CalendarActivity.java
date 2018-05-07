@@ -215,7 +215,7 @@ public class CalendarActivity extends AppCompatActivity implements ApiListener {
                 int workShiftId = jsonObject.getInt("work_shift_id");
                 String shiftStart = jsonObject.getString("shift_start");
                 String shiftEnd = jsonObject.getString("shift_end");
-                String company = jsonObject.getString("company");
+                String company = jsonObject.getString("customer_name");
                 WorkShift workShift = new WorkShift(workShiftId, shiftStart, shiftEnd, company);
                 workShiftList.add(workShift);
             }
