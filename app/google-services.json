@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "861452863389",
+    "firebase_url": "https://stbemanningapp.firebaseio.com",
+    "project_id": "stbemanningapp",
+    "storage_bucket": "stbemanningapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861452863389:android:d56eea0cf897f3d8",
+        "android_client_info": {
+          "package_name": "com.lfo.st_bemanning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861452863389-q90k4bph191jj23df0uj089bbhb8895r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw3Wf99iq5VHzKWZ3VZjQwvLSseK_FEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861452863389:android:53918bfffec3ee7d",
+        "android_client_info": {
+          "package_name": "com.stbemanning.st_bemanning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861452863389-q90k4bph191jj23df0uj089bbhb8895r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw3Wf99iq5VHzKWZ3VZjQwvLSseK_FEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

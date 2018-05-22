@@ -31,7 +31,7 @@
         android:layout_height="match_parent"
         android:background="@color/colorPrimaryDark"
         android:orientation="vertical"
-        tools:context="com.example.nikolapajovic.stbemanning.activities.CalendarActivity"
+        tools:context="com.example.nikolapajovic.stbemanning.com.stbemanning.nikolapajovic.stbemanning.activities.CalendarActivity"
         tools:layout_editor_absoluteY="81dp">
 
         <android.support.v7.widget.Toolbar
